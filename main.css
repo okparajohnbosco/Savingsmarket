@@ -1,0 +1,622 @@
+*{
+    margin: 0%;
+    padding:0;
+    box-sizing:border-box;
+}
+.logo{
+    height: 45px;
+    margin-top: 3px;
+    margin-left: 24px;
+}
+.ex-nav{
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(2, 41, 109);
+}
+.contact-us{
+    margin-left: 900px;
+    position: absolute;
+    margin-top: -40px;
+    color: rgb(53,169,48);
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.us{
+    color: white;
+    font-weight: 400;
+}
+.second-layer{
+    position: absolute;
+    height: 480px;
+    width: 100%;
+    margin-top: 50px;
+}
+.cartoon{
+    position: absolute;
+    width: 100%;
+    height: 480px;
+
+}
+.to-show{
+    position: absolute;
+}
+.compare-savings{
+    margin-left: 204px;
+    margin-top: 21px;
+    font-size: 39px;
+    color: white;
+    line-height: 40px;
+}
+.compare{
+    margin-left: 204px;
+    color: white;
+    line-height: 16px;
+    font-size: 18px;
+}
+.b1{
+    margin-left: 204px;
+    height: 50px;
+    width: 230px;
+    background-color: rgb(53,169,48);
+    color: white;
+    border: 0.5px solid rgb(53,169,48);
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.third-layer{
+    position: absolute;
+    margin-top: 530px;
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+.account{
+    margin-top: 40px;
+    margin-left: 204px;    
+    color: rgb(14,74,142);
+}
+
+.paragraph-saving{
+    margin-left: 204px;
+    color: rgb(14, 74, 142);
+    font-size: 20px;
+    font-weight: 500;
+}
+.fourth-layer{
+    position: absolute;
+    width: 100%;
+    height: 481px;
+    background-color: rgb(227,227,230);
+    margin-top: 1515px;
+}
+.what-is{
+    margin-left: 204px;
+    color: rgb(14, 74, 142);
+    margin-top: 39px;
+}
+.paragraph-bankaccount{
+    float: left;
+    margin-left: 204px;
+    color: rgb(14, 74, 142);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+}
+.coins{
+    float: left;
+    margin-top: 5px;
+    height: 305px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 33px;
+}
+.fifth-layer{
+    height: 399px; ;
+    width: 100%;
+    background-color:rgb(228,241,253) ;
+    position: absolute;
+    margin-top: 1996px; 
+}
+.why-is{
+    margin-top: 39px;
+    color: rgb(14, 74, 142);
+    margin-left: 204px;
+}
+.paragraph-whenchoosing{
+    margin-left: 204px;
+    color: rgb(14, 74, 142);
+    font-size: 20px;
+    font-weight: 500;
+}
+.compare-button{
+    height: 50px;
+    width: 343px;
+    background-color: rgb(53,169,48);
+    border: 0.5px solid  rgb(53,169,48);
+    border-radius: 10px;
+    color: white;
+}
+.sixth-layer{
+    width: 100%;
+    height: 1704px;
+    position: absolute;
+    background-color: rgb(14,74,142);
+    margin-top: 2395px;
+}
+.thin-line{
+    margin-top: 30px;
+    height: 788px;
+    width: 920px;
+    background-color: rgb(14,74,142) ;
+    border: 1px solid white;
+    margin-left: 204px;
+}
+.disclamer{
+    margin-top: 10px;
+    color: white;
+}
+.paragraph-disclamer{
+    margin-left: 10px;
+    color: white;
+    font-size: 17px;
+}
+.risk-warning{
+    margin-top: 48px;
+    /* font-weight: 500; */
+}
+.accept-button{
+    height: 30px;
+    width: 155px;
+    /* background-color: rgb(53,169,48); */
+    /* border: 0.5px solid rgb(53,169,48); */
+    background-color: rgb(0,128,0);
+    color: white;
+}
+.risk-savings{
+    margin-left: 204px;
+    color: white;
+    font-size: 18px;
+}
+
+.line{
+    width: 934px;
+    height: 2px;
+    border-top: 1px solid white;
+    background-color:rgb(14,74,142) ;
+    margin-top: 15px;
+}
+.para-line{
+    color: white;
+    margin-left: 215px;
+    float: left;
+    font-size: 18px;
+
+}
+
+.ul-lists{
+    float: left;
+    color: white;
+    margin-left: -200px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.ul-lists a{
+    color: inherit;
+}
+:hover .ul-lists a{
+    color: white;
+    transition: 0.5s;
+}
+.no-fees{
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+
+/* COMPARE-NOW */
+.cut{
+    width: 100%;
+    position: absolute;
+    height: 270px;
+    margin-top: 50px;
+
+}
+.savings-acc{
+    position: absolute;
+    margin-top: 120px;
+    color: white;
+    margin-left: 204px;
+}
+.use-form{
+    position: absolute;
+    margin-top: 180px;
+    color: white;
+    margin-left: 204px;
+    font-size: 22px;
+}
+.second-section{
+    background-color: white;
+    width: 100%;
+    height: 1034px;
+    position: absolute;
+    margin-top: 320px;
+}
+.form-tag{
+    width:607px;
+    height:1010px;
+    background-color: rgb(211,230,241);
+    /* position: absolute; */
+    margin-left: 204px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.i-confirm-that{
+    /* position: absolute; */
+   margin-top: -27px;
+   margin-left: 20px;
+   color: rgb(14,74,142);
+   font-size: 19px;
+}
+.check-input{
+   margin-top: 20px;
+}
+.compare-savings-button{
+   height: 58px;
+   width: 343px;
+   color: white;
+   background-color: rgb(50,160,46);
+   border-radius: 12px;
+   border: 1px solid rgb(50,160,46) ;
+   font-size: 20px;
+   margin-top: -25px;
+}
+.fl{
+    float: left;
+    /* margin-left: 30px; */
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.ep{
+    float: left;
+    margin-left: 310px;
+    position: absolute;
+    margin-top: 35px;
+}
+.first-name{
+    width:273px ;
+    height: 48px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(195,201,207);
+}
+.last-name{
+    width:273px ;
+    height: 48px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(195,201,207);
+}
+.email{
+    width:273px ;
+    height: 48px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(195,201,207);
+}
+.phone{
+    width:273px ;
+    height: 48px;
+    border-radius: 5px;
+   border: 0.5px solid rgb(195,201,207); 
+}
+.inputwe select{
+    margin-top: 295px;
+    position: absolute;
+    margin-left: 20px;
+    height: 48px;
+    width: 567px;
+    border: 0.5px solid rgb(195,201,207); 
+    border-radius: 5px;
+}
+
+.Looking{
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 24px;
+    color: rgb(14,74,168);
+    font-size: 22px;
+}
+.p-email{
+    color: rgb(14,74,168);
+    font-size: 22px;
+
+}
+.p-phone{
+    color: rgb(14,74,168);
+    font-size: 22px;
+    margin-top: 8px;
+}
+.p-first{
+    color: rgb(14,74,168);
+    font-size: 22px;
+
+}
+.p-last{
+    color: rgb(14,74,168);
+    font-size: 22px;
+    margin-top: 8px;
+}
+.fixed-rate{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 20px;
+}
+.looking-to{
+    margin-top: 700px;
+    position: absolute;
+    margin-top: 486px;
+    margin-left: 20px;
+}
+.imput-looking{
+    margin-top: 800px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 606px;
+}
+.investment-start{
+    margin-top: 90px;
+    position: absolute;
+    margin-top: 726px;
+    margin-left: 20px;
+}
+.fixed-rate-return{
+    color: rgb(14,74,168);
+    font-size: 22px;
+}
+.invest-to-invest-for{
+    color: rgb(14,74,168);
+    font-size: 22px;
+}
+.looking-for{
+    color: rgb(14,74,168);
+    font-size: 22px;
+}
+.investment{
+    color: rgb(14,74,168);
+    font-size: 22px;
+}
+select{
+    height: 48px;
+    width: 567px;
+    border: 0.5px solid rgb(195,201,207); 
+    border-radius: 5px;
+    font-size: 22px;
+
+}
+option{
+    font-size: 22px;
+
+}
+.for-second{
+    margin-top: 10px;
+}
+.claimer-second{
+    font-weight: 400;
+    font-size: 22px;
+}
+/* .the-content-is{
+    font-size: 14px;
+} */
+.the-content-is-div{
+    background-color: rgb(14,74,142);
+    height: 68px;
+    border: 1px solid white;
+    width: 898px;
+    margin-bottom: 20px;
+    font-size: 15px;
+
+}
+.for-the-small{
+    font-size: 14.7px;
+}
+.risk-savings{
+    font-size: 15.5px;
+
+}
+.line-for-two{
+    font-size: 14.7px;
+}
+.list-two{
+    font-size: 14.7px;
+}
+.high-net-two{
+    background-color: rgb(14,74,142);
+    height: 68px;
+    border: 1px solid white;
+    width: 898px;
+    margin-bottom: 20px;  
+}
+.certified-div{
+    background-color: rgb(14,74,142);
+    height: 68px;
+    border: 1px solid white;
+    width: 898px;
+    margin-bottom: 20px;  
+}
+.self-certified-three{
+    background-color: rgb(14,74,142);
+    height: 74px;
+    border: 1px solid white;
+    width: 898px;
+    margin-bottom: 20px;  
+}
+
+.thin-second{
+    height: 803px;
+
+}
+.risk-warning-two{
+    margin-left: 0px;
+}
+.risk-savings-two{
+    margin-left: 0px;
+    text-align: center;
+}
+.sixth-layer-three{
+    width: 100%;
+    height: 900px;
+}
+
+/* TERMS AND CONDITIONS */
+.terms-one{
+    margin-top: 142px;
+}
+.for-blue{
+    height: 12190px;
+    width: 627px;
+}
+.movement{
+    margin-left: 10px;
+    color: rgb(14,74,142);
+    font-size: 18.7px;
+}
+.help-lemon{
+    color: rgb(53,160,45);
+}
+
+/* PRIVACY-POLICY */
+.movement-for-privacy{
+    color: rgb(89,89,89);
+    font-size: 14.5px;
+}
+.movement-for-privacy h4{
+    color: black;
+    font-size: 28px;
+    /* font-weight: 600; */
+}
+@media screen and (max-width: 992px) {
+    .to-show{
+        margin-left: -194px;
+        /* height: 200px; */
+        margin-top: -17px;
+    }
+    .compare-savings{
+        font-size: 30px;
+    }
+   .paragraph-saving .break{
+    display: none;
+   }
+   .contact-us{
+    margin-left: 140px;
+    font-size: 12px;
+   }
+   .logo{
+    margin-left: 5px;
+   }
+   /* .thin-line{
+    width:100% ;
+    margin-left: 10px;
+    margin-right: 10px;
+   } */
+   p{
+    font-size: 16px;
+    /* text-align: center; */
+    
+   }
+   .b1{
+    width: 220px;
+    font-size: 15px;
+    height: 45px;
+    margin-left: 265px;
+    position: absolute;
+    /* margin-bottom: 20%; */
+   }
+   .compare{
+    margin-bottom: 25px;
+   }
+   .cartoon{
+   width: 100%;
+   max-width: 100%;
+   height: 110%;
+   }
+   .third-layer{
+    margin-top: 160%;
+   }
+   .account{
+    margin-left: 10px;
+    text-align: center;
+   }
+   .paragraph-saving{
+    margin-left: 10px;
+    /* text-align: center; */
+   }
+   .fourth-layer{
+    margin-top: 455%;
+   }
+   .what-is{
+    margin-left: 10px;
+    text-align: center;
+   }
+   .paragraph-bankaccount{
+    margin-left: 10px;
+   }
+   .paragraph-bankaccount .break{
+    display: none;
+   }
+   .coins{
+    width: 360px;
+    margin-left: 0px;
+    border-radius: 0px;
+   }
+   .fifth-layer{
+    margin-top: 668%;
+    height: 530px;
+   }
+   .why-is{
+    margin-left: 10px;
+    white-space: nowrap;
+    font-size: 23.5px;
+   }
+   .paragraph-whenchoosing .break{
+    display: none;
+   }
+   .paragraph-whenchoosing{
+    margin-left: 10px;
+   }
+   .compare-button{
+    width: 220px;
+    font-size: 15px;
+    height: 45px;
+    margin-left: 60px;
+   }
+   .sixth-layer{
+    margin-top: 810%;
+    height: 3600px;
+   }
+   
+   .thin-line{
+    margin-left: 10px;
+    width: 345px;
+    height: 1550px;
+   }
+   .thin-line .break{
+    display: none;
+   }
+   .risk-savings{
+    margin-left: 10px;
+   }
+   .risk-savings .break{
+    display: none;
+   }
+  .risk-warning{
+    text-align: center;
+  }
+  .para-line{
+    margin-left: 10px;
+  }
+  .line{
+    width: 340px;
+  }
+}
